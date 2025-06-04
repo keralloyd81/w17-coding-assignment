@@ -53,3 +53,28 @@ export default tseslint.config({
 })
 ```
 "# w17-coding-assignment" 
+# Assignment Instructions:
+
+## Coding Steps:
+Using an online API of your choice, create a React project. You will be working on this for the next three weeks.
+Project must meet the following criteria:
+Use React Router and have at least 3 pages using React Bootstrap or an alternative styling library
+Contain at least 10 custom components
+Allow for all CRUD operations via one or more APIs
+
+## Recommended API:
+MockAPI - This is one of the most popular APIs with our mentors! 
+Get more tips on CRUD with MockAPI!
+
+You are free to use an API of your choosing; however, it must support all CRUD operations.
+
+## Some additional APIs are the following:
+https://github.com/ripienaar/free-for-dev#apis-data-and-ml
+https://jsonplaceholder.typicode.com/
+https://learning.postman.com/docs/designing-and-developing-your-api/mocking-data/setting-up-mock/
+
+## Suggestion to alleviate CORS policy errors:
+If you are having trouble accessing any of these APIs and you are getting a CORS policy error, try running your app on a live server.
+You can install one via the command line:
+npm install live-server -g
+To run the live server, navigate to your project directory in the command line, then run live-server
